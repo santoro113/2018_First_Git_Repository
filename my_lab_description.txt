@@ -1,0 +1,9 @@
+My lab has the following components.
+
+4 x Cisco Nexus. Their management interface is on the production network. The rest of it is physically configured in a leaf/spine. Otherwise, I have not looked too closely at the configurations. It is shared, so things may change as I work with it.
+
+My workstation is a basic Windows with VirtualBox, with an Ubuntu Desktop, Python, Ansible and Git.
+
+
+
+
